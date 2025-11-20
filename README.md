@@ -1,3 +1,3 @@
 # GitTest-3
 
-This is a test repository created automatically.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+This is a test repository created automatically.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
